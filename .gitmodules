@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "tictoc"]
+	path = tictoc
+	url = https://github.com/collectivemedia/tictoc
+	shallow = true
+	registered = true
